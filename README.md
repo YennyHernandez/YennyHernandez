@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=30&lines=++Hello!+I'm+Yenny+Hernández+🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=F72EE2&background=00000000&width=500&height=30&lines=++Hello!+I'm+Yenny+Hernández+🌻)](https://git.io/typing-svg)
 <h3 align="center"> A Passionate Software Developer </h3>
 <img src="./GIFGITHUB.gif"><img/>
 <h3 align="center">
@@ -11,8 +11,8 @@ Hi there! 👋 I'm Yenny, an Electronic Engineer based in Colombia. I have exper
 <ul>
         <li>🎓 &nbsp; professional in electronic engineering from <a href="https://www.udea.edu.co/">UDEA.</a></li>
         <li>👑 &nbsp; Junior Front-end Developer. </li>
-        <li>🌱&nbsp; Interested in new web development technologies and cybersecurity.</li>
-        <li>❤️&nbsp; Javascript. </li>
+        <li>🌱 &nbsp; Interested in new web development technologies and cybersecurity.</li>
+        <li>❤️ &nbsp; Javascript. </li>
        </ul>
 
 <br>
